@@ -22,3 +22,5 @@ if (menuToggle && mainNav) {
     });
   });
 }
+
+console.log("김유정 포트폴리오가 정상적으로 실행되었습니다.");
